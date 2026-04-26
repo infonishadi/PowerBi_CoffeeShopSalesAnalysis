@@ -1,8 +1,6 @@
 # PowerBi_CoffeeShopSalesAnalysis
 Coffee Shop Sales Analysis Dashboard designed to answer six key business questions. It monitors revenue by location, product category, and transaction hours to support decision-making.
 
-This project was part of a structured learning path focused on developing foundational data analysis skills using simplified datasets.
-
 **1.	Which store location has the highest revenue? What might explain this?** 
 Hell’s Kitchen has the highest revenue among all three store locations, generating approx. $237K, as shown in the clustered bar chart comparing total revenue by store location.
 
